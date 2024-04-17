@@ -4,7 +4,7 @@ The UK Food Standards Agency evaluates various establishments across the United 
 ------------------------------------------------------------------------------------------------------------------
 
 Starter code folder holds:
-1. Starter --> gets the database started and updates the database with new restaurant
+1. Setup --> gets the database started and updates the database with new restaurant
 2. Analysis --> using the updated database, data was analyzed based on questions asked and dataframes were created.
 ------------------------------------------------------------------------------------------------------------------
 Resources:
